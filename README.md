@@ -1,3 +1,5 @@
-:robot: Machine Learning Researcher at the University of Oxford :robot:
+:robot: Machine Learning Researcher :robot:
 
-Please check out my website [here](https://alasdair-p.github.io/Alasdair-P/)
+University of Oxford 
+
+For more details please check out my website -> [here](https://alasdair-p.github.io/Alasdair-P/)
